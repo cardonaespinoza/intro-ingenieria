@@ -3,5 +3,17 @@ Listado de estudiantes y docentes:
 Miguel Matul
 //
 
-André Pinto
-//
+Blume
+// Integrantes
+
+Troya
+// Integrantes
+
+OOPS
+// Integrantes
+
+Mayas Alpha
+// Integrantes
+
+PrograWeb
+// Integrantes
