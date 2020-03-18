@@ -2,6 +2,7 @@ Listado de estudiantes y docentes:
 
 Miguel Matul
 //Batman v Superman
+//El niño con la pijama de rayas
 
 Blume
 // Integrantes
